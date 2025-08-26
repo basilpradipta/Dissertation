@@ -26,7 +26,7 @@ The project explores how RL and MARL techniques can be applied to optimise retai
 
 ## Disclaimer
 
-The code in this project is based in part on public repositories and official library documentation. AI tools (such as ChatGPT) were used to assist with code development, troubleshooting, and optimization. All AI-assisted outputs were critically evaluated, tested, and adapted by the author.
+The code in this project is based in part on public repositories and official library documentation. AI tools (such as ChatGPT) were used to assist with code development, troubleshooting, and optimisation. All AI-assisted outputs were critically evaluated, tested, and adapted by the author.
 
 Key reference repositories:
 
