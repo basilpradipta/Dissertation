@@ -6,7 +6,7 @@
 
 This repository contains the complete Jupyter notebook for my dissertation titled:
 
-**“Machine Learning for Retail Price Optimisation”**
+**“Machine Learning for Retail Market”**
 
 The project explores how RL and MARL techniques can be applied to optimise retail pricing strategies using historical sales data, demand modeling with LSTM, price elasticity estimation, and reinforcement learning.
 
