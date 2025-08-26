@@ -1,7 +1,6 @@
 # RL and MARL for Retail Price Optimisation
 
 **Author**: Basil Pradipta  
-**Date**: August 2025  
 **Dissertation Project** – MSc in Business Analytics
 
 This repository contains the complete Jupyter notebook for my dissertation titled:
@@ -24,3 +23,13 @@ The project explores how RL and MARL techniques can be applied to optimise retai
   - Multi-Agent Reinforcement Learning (MARL)
 
 ---
+
+## Disclaimer
+
+The code in this project is based in part on public repositories and official library documentation. AI tools (such as ChatGPT) were used to assist with code development, troubleshooting, and optimization. All AI-assisted outputs were critically evaluated, tested, and adapted by the author.
+
+Key reference repositories:
+
+- Git-123-Hub/maddpg-pettingzoo-pytorch(https://github.com/Git-123-Hub/maddpg-pettingzoo-pytorch/)
+- openai/multiagent-particle-envs(https://github.com/openai/multiagent-particle-envs)
+- openai/maddpg(https://github.com/openai/maddpg)
