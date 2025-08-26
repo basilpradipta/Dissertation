@@ -12,7 +12,7 @@ The project explores how RL and MARL techniques can be applied to optimise retai
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 `RL and MARL for retail price optimisation.ipynb`  
   This notebook includes:
